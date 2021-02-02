@@ -1,0 +1,22 @@
+{
+  "name": "arbihedge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TSavo/ArbiHedge.git"
+  },
+  "author": "TSavo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TSavo/ArbiHedge/issues"
+  },
+  "homepage": "https://github.com/TSavo/ArbiHedge#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.4.0"
+  }
+}
